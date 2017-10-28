@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RestroBill</string>
+    <string name="name">Pr Live Food</string>
+    <string name="item">Item</string>
+    <string name="qty">Qty. Ordered</string>
+    <string name="price">Price</string>
+    <string name="chilli">Chilli Potato</string>
+    <string name="momos">momos</string>
+    <string name="shake">shake</string>
+    <string name="coke">coke</string>
+    <string name="c40">40</string>
+    <string name="m40">40</string>
+    <string name="s40">46</string>
+    <string name="coke40">45</string>
+    <string name="order">ORDER</string>
+</resources>
